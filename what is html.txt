@@ -1,0 +1,55 @@
+=>htnl stands for hypertext markup language
+=>html first time released in 1986 by tim benner lee.
+=>html is used to make a webpage for any website.
+=>html is markup language html is not any language.
+=>markup language interact with web broswers and load on client browser so it is called a markup language.
+maekup meanse it is markup with many language to create its webpage i.e called markup language.
+
+ex: php + html
+    asp.net + html
+    java + html 
+    python + html
+
+=> hypertet meanse redirect one page to another page i.e called hypertext.
+
+ex: <a href="http://www.flipkart.com">click to go flipkart</a>
+
+=>html is a case insenstive language
+ex: <HTML> , <html> , <Html> 
+
+=>html provides tag to create any structures inside of webpage 
+
+=>tages is write inside of angural brackets <p> hi i am paragraph</p> i.e called tag.
+=>tages are two types
+
+     a) paired tag 
+           paied tags are defined inside of angural brackets <h1> hi vidhi</h1> and must be start and closed i.e called paired tag.
+
+    ex: <p> hi paragraph</P>
+        <h1> hi i am heading </h1>
+
+    b) non-paired tag 
+           non-paired tags are defind inside of angural brackets <br> and must note be closed i.e called 
+           non-paired tag.
+
+    ex: <br>,<hr>,<input>,<img>,<link>,<meta>
+
+    c) deprecated tag
+            deprecated tags officially are removed from html list 
+
+    ex: <blink></blink>,<dir />,<embad>,<center>
+
+
+=>html head tag: head tags are defind inside og html structured but we write anything else in webpage it
+  is not display
+
+  list of head tag 
+  <title>
+  <meta>
+  <link>
+  <style>
+  <script>
+  <nonscript>
+
+  -->
+  
